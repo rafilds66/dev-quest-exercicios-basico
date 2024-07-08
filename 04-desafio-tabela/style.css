@@ -1,14 +1,19 @@
-.cabecalho-moda{
+.moda th{
     background-color: #BB86FC;
     color: #fff;
 }
 
-.cabecalho-casa{
+.moda td{
+    background-color: #424250;
+    color: #fff;
+}
+
+.casa th{
     background-color: #00C4B4;
     color: #fff;
 }
 
-table td{
+.casa td{
     background-color: #424250;
     color: #fff;
 }
